@@ -17,7 +17,7 @@ A chatbot which could assist people and give information related to COVID-19 pan
 ## Total length of our dataset: 
 284 sentences (Storage type=list)
 
-https://raw.github.com/abhi27-web/I-Care-Medical-Bot/pasted_image_0.png
+https://raw.github.com/abhi27-web/I-Care-Medical-Bot/Screenshots/Dataset.png
 
 
 
