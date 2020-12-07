@@ -15,8 +15,24 @@ A chatbot which could assist people and give information related to COVID-19 pan
 6. Result visualization: Plotting the graph for gross similarity measure of the BOT.
 
 ## Total length of our dataset: 
-284 sentences (Storage type=list)
+404 sentences (Storage type=list)
+
 ![Alt text](Screenshots/Dataset.png)
+Figure 1: Length of Data Collected
+
+## Implementation & Results:
+![Alt text](Screenshots/Chats.png)
+Figure 2: Conversation with the bot 
+
+## Bot Analysis:
+Gross Similarity : 47.5%
+
+![Alt text](Screenshots/unnamed.png)
+Figure 3: Cosine similarity between the user questions and Bot response
+
+![Alt text](Screenshots/Cosine_similarity_graph.png)
+Figure 4: Cosine Similarity Plot
+
 
 
 
